@@ -27,9 +27,7 @@ Most churn projects stop at model accuracy. This one goes further:
 Python · scikit-learn · XGBoost · pandas · SQL · Power BI
 
 ## Dashboard Preview
-<img width="1310" height="735" alt="Screenshot 2026-03-26 223431" src="https://github.com/user-attachments/assets/f6de83ab-211c-4e76-8560-46080ce69ccd" />
-
-<img width="1306" height="731" alt="Screenshot 2026-03-26 223444" src="https://github.com/user-attachments/assets/3c8f4a5f-8521-4257-b561-6648f0407b02" />
+<img width="650" height="365" alt="Screenshot 2026-03-26 223431" src="https://github.com/user-attachments/assets/f6de83ab-211c-4e76-8560-46080ce69ccd" /><img width="650" height="365" alt="Screenshot 2026-03-26 223444" src="https://github.com/user-attachments/assets/3c8f4a5f-8521-4257-b561-6648f0407b02" />
 
 
 ## Run It
